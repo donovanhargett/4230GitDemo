@@ -1,4 +1,4 @@
-# 4230GitDemo for class
+# 4320GitDemo for class
 
 Learning Git Demo
 
